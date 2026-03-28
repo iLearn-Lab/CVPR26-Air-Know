@@ -1,10 +1,10 @@
 
 <a id="top"></a>
 <div align="center">
- <img src="./assets/airknow.png" width="200"> 
+ <img src="assets/airknow.png" width="200"> 
   <h1>[CVPR 2026] Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval</h1>
     <div align="center">
-    <img src="./assets/insights.png" alt="AirKnow Teaser" width="700">
+    <img src="assets/insights.png" alt="AirKnow Teaser" width="700">
   </div>
   <p>
       <a href="https://arxiv.org/abs/coming soon"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg"></a>
@@ -59,12 +59,12 @@ Welcome to the official repository for **Air-Know**. This is about <a href="http
 
 <caption><strong>Table 1.</strong> Performance comparison on FashionIQ validation set in terms of R@K (%). The best result under each noise ratio is highlighted in bold, while the second-best result is underlined.</caption>
 
-![](./assets/results-fiq.png)
+![](assets/results-fiq.png)
 
 #### CIRR:
 <caption><strong>Table 2.</strong> Performance comparison on the CIRR test set in terms of R@K (%) and Rsub@K (%). The best and second-best results are highlighted in bold and underlined, respectively.</caption>
 
-![](./assets/results-cirr.png)
+![](assets/results-cirr.png)
 
 [⬆ Back to top](#top)
 
@@ -234,7 +234,7 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
 <table style="width:100%; border:none; text-align:center; background-color:transparent;">
   <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/habit-logo.png" alt="HABIT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="assets/logos/habit-logo.png" alt="HABIT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>HABIT (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://lee-zixu.github.io/HABIT.github.io/" target="_blank">Web</a> | 
@@ -243,7 +243,7 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
       </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/retrack-logo.png" alt="ReTrack" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="assets/logos/retrack-logo.png" alt="ReTrack" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ReTrack (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://lee-zixu.github.io/ReTrack.github.io/" target="_blank">Web</a> | 
@@ -252,7 +252,7 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
       </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/intent-logo.png" alt="INTENT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="assets/logos/intent-logo.png" alt="INTENT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>INTENT (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://zivchen-ty.github.io/INTENT.github.io/" target="_blank">Web</a> | 
@@ -263,7 +263,7 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
     </tr>
   <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/hud-logo.png" alt="HUD" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="assets/logos/hud-logo.png" alt="HUD" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>HUD (ACM MM'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://zivchen-ty.github.io/HUD.github.io/" target="_blank">Web</a> | 
@@ -272,7 +272,7 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
       </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/offset-logo.png" alt="OFFSET" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="assets/logos/offset-logo.png" alt="OFFSET" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>OFFSET (ACM MM'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://zivchen-ty.github.io/OFFSET.github.io/" target="_blank">Web</a> | 
@@ -281,7 +281,7 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
       </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/assets/logos/encoder-logo.png" alt="ENCODER" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="assets/logos/encoder-logo.png" alt="ENCODER" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ENCODER (AAAI'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://sdu-l.github.io/ENCODER.github.io/" target="_blank">Web</a> | 
