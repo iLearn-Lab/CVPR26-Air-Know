@@ -24,7 +24,7 @@ Welcome to the official repository for **Air-Know**. This is about <a href="http
 *Disclaimer: This codebase is intended for research purposes.*
 
 ## 📢 News and Updates
-* **[2026-02-21]** 🔥 Air-Know is accepted by **CVPR 2026**.
+* **[2026-02-21]** 🔥 Air-Know is accepted by **CVPR 2026**. Codes are coming soon.
 
 ---
 ### Air-Know Pipeline (based on [LAVIS](https://github.com/chiangsonw/cala?tab=readme-ov-file))
