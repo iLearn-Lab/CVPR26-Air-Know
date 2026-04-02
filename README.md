@@ -4,18 +4,22 @@
  <img src="assets/airknow.png" width="200"> 
   <h1>[CVPR 2026] Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval</h1>
 <p align="center">
-    <a href="https://zhihfu.github.io/"><strong>Zhiheng Fu</strong></a>
+    <a href="https://zhihfu.github.io/"><strong>Zhiheng Fu</strong></a><sup>1</sup>
     &nbsp;&nbsp;
-    <strong>Yupeng Hu</strong>
+    <strong>Yupeng Hu</strong><sup>1</sup>
      &nbsp;&nbsp;
-    <strong>Qianyun Yang</strong>
+    <strong>Qianyun Yang</strong><sup>1</sup>
       &nbsp;&nbsp;
-    <strong>Shiqi Zhang</strong>
+    <strong>Shiqi Zhang</strong><sup>1</sup>
     &nbsp;&nbsp;
-    <a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>
+    <a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a><sup>1</sup>
     &nbsp;&nbsp;
-    <a href="https://lee-zixu.github.io/"><strong>Zixu Li</strong></a>
+    <a href="https://lee-zixu.github.io/"><strong>Zixu Li</strong></a><sup>1</sup>
   </p>
+   <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>
+  <!-- <br />
+ <sup>2</sup>School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), &#160&#160&#160</span>  <br /> -->
+ 
   <br>
     <div align="center">
     <img src="assets/insights.png" alt="AirKnow Teaser" width="700">
