@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://zhihfu.github.io/"><strong>Zhiheng Fu</strong></a><sup>1</sup>
     &nbsp;&nbsp;
-    <strong>Yupeng Hu</strong><sup>1</sup>
+    <a target="_blank" href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng&#160;Hu</a><sup>1&#9993</sup>,
      &nbsp;&nbsp;
     <strong>Qianyun Yang</strong><sup>1</sup>
       &nbsp;&nbsp;
@@ -16,7 +16,10 @@
     &nbsp;&nbsp;
     <a href="https://lee-zixu.github.io/"><strong>Zixu Li</strong></a><sup>1</sup>
   </p>
-   <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>
+    <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>
+  <br />
+  <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+  <br/>
   <!-- <br />
  <sup>2</sup>School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), &#160&#160&#160</span>  <br /> -->
  
