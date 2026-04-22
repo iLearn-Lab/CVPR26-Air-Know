@@ -28,8 +28,7 @@
     <img src="assets/insights.png" alt="AirKnow Teaser" width="700">
   </div>
   <p>
-      <a href="https://arxiv.org/abs/coming soon"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg"></a>
-      <a href=""><img alt='Paper' src="https://img.shields.io/badge/Paper-CVPR.Coming_Soon-green.svg"></a>
+      <a href="http://arxiv.org/abs/2604.19386"><img alt='Paper' src="https://img.shields.io/badge/Paper-arxiv-green.svg"></a>
     <a href="https://zhihfu.github.io/Air-Know.github.io/"><img alt='page' src="https://img.shields.io/badge/Website-orange"></a>
     <a href="https://zhihfu.github.io"><img src="https://img.shields.io/badge/Author Page-blue.svg" alt="Author Page"></a>
     <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"></a>
